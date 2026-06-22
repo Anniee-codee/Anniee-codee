@@ -40,8 +40,8 @@
 ✔ Improve Problem Solving Skills  
 
  -📫 Connect With Me
+ 
 LinkedIn: www.linkedin.com/in/quratulainnshaikh/
-
 Portfolio: https://quratulain-shaikh.netlify.app/
-
-ing and building new things
+ 
+⭐ Always learning and building new things
