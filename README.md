@@ -40,14 +40,8 @@
 ✔ Improve Problem Solving Skills  
 
  -📫 Connect With Me
-LinkedIn: www.linkedin.com/in/quratulainnshaikh
+LinkedIn: www.linkedin.com/in/quratulainnshaikh/
+
 Portfolio: https://quratulain-shaikh.netlify.app/
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anniee-codee&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anniee-codee&layout=compact)
----
-
-⭐ Always learning and building new things
+ing and building new things
